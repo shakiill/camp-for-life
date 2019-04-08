@@ -1,10 +1,4 @@
-/*
-	Template Name: Eventime -  Conference &amp; Event HTML Template
-	Author: Themefunction
-	Author URI: https://themeforest.net/user/themefunction
-	Description: Eventime -  Conference &amp; Event HTML Template
-	Version: 1.0
-*/
+
 
 /* Table of Content
 ==================================================
@@ -3451,7 +3445,8 @@ label{
   transition: all 0.3s ease;
 }
 #timeline .timeline-item .timeline-content h2 {
-  padding: 15px;
+  padding: 5px;
+  text-align: center;
   background: #ee4d4d;
   color: #fff;
   margin: -20px -20px 0 -20px;
