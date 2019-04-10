@@ -3532,5 +3532,20 @@ label{
   }
   #timeline .timeline-item .timeline-icon {
     left: 0;
-  }
+	}
+	@-moz-document url-prefix() {
+		.caption{
+			margin-top: 20%!important;
+		}
+	
+	}
+}
+
+
+
+@-moz-document url-prefix() {
+  .caption{
+		margin-top: 20%!important;
+	}
+
 }
